@@ -1,0 +1,5 @@
+# Công dân
+
+Đức tính công dân là một khái niệm “hiện đại” vì trong xã hội cổ thời, đông cũng như tây, không có khái niệm công dân mà chỉ có thần dân. Trong xã hội hiện đại, nếu chỉ rèn luyện đức tính để trở thành một người “tốt,” thì liệu đã đủ chưa? Một người dân tốt còn phải trở thành một công dân tốt. Thế nào là một công dân tốt? Một cách đơn giản nhất là tham dự vào những sinh hoạt công, đóng góp những quan điểm và công sức vào việc công trên các lãnh vực chính trị, xã hội, giáo dục, và xã hội dân sự. Đức tính này được rèn luyện cho học sinh từ tấm bé, cho các em quen với các hoạt động công như tham gia các hội đoàn học sinh, tham gia ứng cử/bầu cử, tham gia các công việc thiện nguyện, v.v…
+
+Ta sinh vào cuộc đời, có thể được ví, như Pascal đã nói “xuống thuyền” (embarqué) rồi, dù muốn hay không muốn. Nếu ta không quan tâm, mặc kệ ai đó muốn lèo lái con thuyền như thế nào, thì ta cũng phải chịu trách nhiệm, nếu tai nạn xảy đến cho con thuyền.

@@ -1,0 +1,64 @@
+site_name: Đức dục
+site_description: Hướng dẫn tự học và rèn luyện Đức dục – Nhân cách, Đạo đức, Nội tâm
+site_author: khuhocmo
+site_url: https://daihocmo.github.io
+repo_url: https://github.com/daihocmo/duc-duc
+repo_name: Đóng góp & chỉnh sửa trang
+
+nav:
+  - 'Trang chủ': 'index.md'
+  - 'Mở đầu':
+    - 'Đức dục': 'duc-duc.md'
+  - 'Sáu Cột trụ của Nhân cách':
+    - 'Khả tín': 'duc-tinh/kha-tin.md'
+    - 'Tôn trọng': 'duc-tinh/ton-trong.md'
+    - 'Trách nhiệm': 'duc-tinh/trach-nhiem.md'
+    - 'Công bằng': 'duc-tinh/cong-bang.md'
+    - 'Nhân ái': 'duc-tinh/nhan-ai.md'
+    - 'Công dân': 'duc-tinh/cong-dan.md'
+  - 'Hành trình sống có giá trị':
+    - 'Sống thật': 'gia-tri/song-that.md'
+    - 'Tử tế, không nhu nhược': 'gia-tri/de-song-tu-te.md'
+    - 'Hiện tại, hiện tại đã qua và hiện tại sắp tới': 'gia-tri/hien-tai.md'
+    - 'Trưởng thành trong quan hệ': 'gia-tri/quan-he-xa-hoi.md'
+  - 'Phụ lục':
+    - 'Tài nguyên & Đọc thêm': 'tai-nguyen.md'
+    - 'Triết lý "gần gũi"': 'triet-ly-song.md'
+
+
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - toc.follow
+    - search.highlighting
+    - search.share
+    - search.suggest
+  icon:
+    repo: fontawesome/brands/github
+  name: material
+  language: vi
+      
+plugins:
+  - search
+  - open-in-new-tab
+
+extra:
+  generator: false

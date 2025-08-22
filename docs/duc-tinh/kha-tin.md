@@ -1,0 +1,7 @@
+# Khả tín
+
+Chữ Tín, viết theo chữ Hán là 信 (Tương ứng với chữ Tín trong Ngũ thường), gồm bộ nhân (người) bên trái, và chữ ngôn (lời nói) bên phải, có nghĩa là tin tưởng. Xét trên ngữ căn, nhờ vào lời nói giữa người và người mà quan hệ, giao dịch được thành lập, dựa trên những cam kết bằng lời nói mà thành. Vì thế có thể nói Đức tín có lẽ là đức tính căn bản nhất trong những đức tính mà ta cần phát triển.
+
+Hãy tưởng tượng một xã hội mà không ai tin được ai, thì chuyện gì sẽ xảy ra? Ví dụ khi ta đi mua xăng đổ xe, ta phải mang theo dụng cụ để đo hầu tránh bị thiệt vì sự gian dối có thể có của người bán. Người bán cũng vậy, không tin được cái “lít” của người mua. Và thế là giao dịch bất thành. Mọi giao dịch và quan hệ giữa người và người bị đình trệ. Hậu quả của sự thiếu tin tưởng là tình trạng nghi kỵ thường trực trong mọi mối quan hệ của loài người.
+
+Trong xã hội hiện đại, điểm tín dụng (credit rating) là một thí dụ hoàn hảo cho thấy sự quan trọng của chữ tín. Điểm tín dụng được hình thành qua một thời gian dài để chứng minh với những cơ quan tài chính. Chữ tín cũng vậy, cần một thời gian dài để chứng minh. Làm thế nào để tạo dựng đức tín? Để tạo “credit,” mỗi người phải cố gắng giữ lời hứa, phải trước sau như một, dù hoàn cảnh ngày nay đã khác với khi  giao ước.
